@@ -42,3 +42,13 @@ data science works on prediction over collected stats and probability so the imp
 6. Type I and II errors
 
 7. Student’s T distribution
+
+
+You would find various detailed roadmaps, instructions & do's - don't for pursuing a career in data science 
+here are a few roadmap yoy can follow 
+👍👇👇
+
+
+<img src = "https://user-images.githubusercontent.com/100332850/230721839-46afe233-c616-4b89-95e7-af299858ea04.png" width = "700" height ="450" />
+
+<img src = "https://user-images.githubusercontent.com/100332850/230722072-95cc230b-a119-4fed-b75c-afb0fe6a2253.png" width = "400" height ="800" />
